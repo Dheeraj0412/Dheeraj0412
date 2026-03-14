@@ -3,10 +3,7 @@
 
 
 ## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-saini-62a642377) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dheeraj_s1093) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dheeraj.s_05) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zUZhkCU6)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dheeraj0412&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-saini-62a642377) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dheeraj_s1093) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zUZhkCU6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
