@@ -1,23 +1,25 @@
 #  About Me:
-👋 Hey there,<br>I'm Dheeraj Saini<br><br>🚀 A passionate Computer Science student who loves building, designing, and solving problems through code and creativity.<br><br>🔭 I’m currently working on <br>• Designing modern **UI/UX interfaces using Figma** <br>• Building **Development projects** to strengthen my **portfolio**<br>• Improving my problem-solving skills with **C++ & Data Structures**  <br><br>👯 I’m looking to collaborate on  <br>• **Open-source beginner-friendly projects**  <br>• **UI/UX design projects**  <br>• **Frontend web development projects**<br><br>🤝 I’m looking for help with  <br>• Mastering **advanced Data Structures & Algorithms**  <br>• Turning **UI/UX designs into real-world web applications**    <br>• Exploring and growing with **AI tools and emerging technologies**<br><br>🌱 I’m currently learning  <br>• **C++ & Data Structures and Algorithms**  <br>• **UI/UX Design and Product Thinking**  <br>• **Web Development with the MERN Stack**<br><br><br>⚡ Fun fact  <br>• I enjoy turning ideas into real projects — from designing app interfaces to building real-world applications.<br><br><br>⭐ *Always learning. Always building.*
+
+I'm Dheeraj Saini, a Computer Science Engineering student with a strong interest in UI/UX Design and Frontend Development.
+
+I design modern, user-centered interfaces in Figma and transform them into responsive web experiences using HTML, CSS, and JavaScript. Currently, I'm expanding my frontend skills with React.js while strengthening my problem-solving abilities through Data Structures and Algorithms in C++.
+
+**Skills**
+
+* UI/UX Design (Figma)
+* HTML, CSS, JavaScript
+* Responsive Web Design
+* React.js (Learning)
+* C++ & DSA (Learning)
+
+**Currently Focused On**
+
+* Building impactful design and frontend projects
+* Improving DSA and problem-solving skills
+* Creating a strong portfolio of real-world work
+
+You can explore my UI/UX work on my Figma Community profile.
 
 
 ## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-saini-62a642377) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dheeraj_s1093) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zUZhkCU6)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Dheeraj0412/Dheeraj0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-saini-62a642377) [![Figma](https://img.shields.io/badge/Figma-%230077B5.svg?logo=Figma&logoColor=white)](https://www.figma.com/@dheeraj49) 
