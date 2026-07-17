@@ -10,7 +10,7 @@ I design modern, user-centered interfaces in Figma and transform them into respo
 * HTML, CSS, JavaScript
 * Responsive Web Design
 * C/C++,Python
-* React.js (Learning)
+* React.js
 *  DSA (Learning)
 
 **Currently Focused On**
